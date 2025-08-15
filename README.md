@@ -34,13 +34,11 @@
 ---
 
 ##  Connect With Me  
-| Platform | Link |
-|----------|------|
-| ![LinkedIn](https://www.linkedin.com/in/francesco-greca/?lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3B0aNFPFmVTECkUhT30RajfA%3D%3D) |
+![LinkedIn](https://www.linkedin.com/in/francesco-greca/?lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3B0aNFPFmVTECkUhT30RajfA%3D%3D)
 
 ---
 
 ##  GitHub Stats  
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=[Francesco-Greca]&show_icons=true&theme=radical)
+[![Francesco's GitHub stats](https://github-readme-stats.vercel.app/api?username=Francesco-Greca)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
