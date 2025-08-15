@@ -1,16 +1,46 @@
-## Hi there 👋
+### Hi there, I'm Francesco! 
+**AI Engineer** passionate about building intelligent systems and open-source software.
 
-<!--
-**Francesco-Greca/Francesco-Greca** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- Based in Málaga, Spain (but originally from Italy :D)
+---
 
-Here are some ideas to get you started:
+##  About Me  
+- Deeply interested in AI/ML/DL, with expertise in areas like Natural Language Processing, Computer Vision, Reinforcement Learning, RAGs, etc...  
+- Skilled in developing and deploying scalable, production-ready AI systems  
+- Contributor to open-source projects and advocate for ethical AI and reproducible research  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+##  Areas of Expertise  
+### Programming Languages & Frameworks  
+- Languages: **Python**, **Go**, **C#**  
+- Frameworks & Tools: **PyTorch**, **TensorFlow**, **scikit-learn**, **FastAPI**, **Hugging Face Transformers**, **LangChain**  
+
+### Cloud
+- Cloud Platforms: **AWS**, **Azure**, **GCP** (e.g., EC2, Lambda, Sagemaker…)  
+- CI/CD & Automation: **GitHub Actions** 
+
+### Data Processing & Databases  
+- Libraries & Tools: **Pandas**, **NumPy**, **Spotlight**
+- Databases: **PostgreSQL**, **MongoDB**, **Redis**, **Elasticsearch**  
+
+---
+
+##  I'm Open To  
+- Collaboration on AI/ML engineering or research projects  
+- Speaking at conferences, mentoring, and technical writing  
+- Reviewing, contributing, or serving as an advisor for AI/ML publications  
+
+---
+
+##  Connect With Me  
+| Platform | Link |
+|----------|------|
+| ![LinkedIn](https://www.linkedin.com/in/francesco-greca/?lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3B0aNFPFmVTECkUhT30RajfA%3D%3D) |
+
+---
+
+##  GitHub Stats  
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=[Francesco-Greca]&show_icons=true&theme=radical)
+
+---
